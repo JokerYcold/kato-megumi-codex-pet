@@ -45,6 +45,8 @@
 
 ## 下载与启动
 
+**推荐下载安装版（Setup.exe）**。安装过程中有一段惠惠的动画小彩蛋。
+
 在 [GitHub Releases](https://github.com/JokerYcold/kato-megumi-codex-pet/releases/latest) 下载 Windows x64 版本。安装版运行 Setup.exe；便携 ZIP 完整解压后运行 HuiHuiPet.exe。两个版本都无需另装 .NET。基础桌宠功能可离线使用。
 
 任务气泡展示对应客户端提供的公开进度和状态。权限审批在原客户端处理。DSH 需要手动接入随附的只读伴随插件。
