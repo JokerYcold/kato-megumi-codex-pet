@@ -1,10 +1,10 @@
+# Megumi Pet · 加藤惠桌宠（Codex + DSH）
+
 <p align="center">
-  <img src="docs/images/v2.0/installer-back.gif" width="216" alt="安装动画中的加藤惠背影">
+  <img src="docs/images/v2.0/installer-back.gif" width="320" alt="安装动画中的加藤惠背影">
 </p>
 
 <p align="center"><strong>那个春天，我与『命运』邂逅了</strong></p>
-
-# Megumi Pet · 加藤惠桌宠（Codex + DSH）
 
 > 惠惠有了自己的春日房间。工作时陪你跟随 Codex 或 DeepSeek Harness，闲下来会自己换个姿势、跑动、扒窗和探头。
 
